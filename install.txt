@@ -1,0 +1,5 @@
+# copy and poste into terminal
+pip3 install numpy
+pip3 install python-stl
+pip3 install matplotlib
+pip3 install mpl_toolkits
